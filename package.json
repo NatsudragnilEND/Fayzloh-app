@@ -1,0 +1,35 @@
+{
+  "name": "fayzloh",
+  "version": "0.0.1",
+  "description": "social media new app",
+  "productName": "Fayzloh social media",
+  "author": "MukhammadAmin",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0",
+    "dev": "quasar dev",
+    "build": "quasar build"
+  },
+  "dependencies": {
+    "@ionic/vue": "^7.7.3",
+    "@quasar/extras": "^1.16.4",
+    "date-fns": "^3.3.1",
+    "firebase": "^10.8.1",
+    "firebase-admin": "^12.0.0",
+    "ionicons": "^7.2.2",
+    "pinia": "^2.1.7",
+    "quasar": "^2.8.0",
+    "vue": "^3.4.18",
+    "vue-router": "^4.0.12"
+  },
+  "devDependencies": {
+    "@quasar/app-vite": "^1.4.3",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.14"
+  },
+  "engines": {
+    "node": "^20 || ^18 || ^16",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}
